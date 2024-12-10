@@ -2,22 +2,15 @@
 
 <div align="center">
 
-  <div align="center" width="400px">
-    <img width="350px" src="https://res.cloudinary.com/drft9abh4/image/upload/v1733568610/Tech-Stacks-2_u212v8.png"/>
-  </div>
-
-  <br>
-
   <img src="https://res.cloudinary.com/drft9abh4/image/upload/v1733562997/Luca-Giro-Banner_yyrlxx.png" alt="header"/>
 
-  <br>
-  <br>
+  <img align="center" width="300px" src="https://res.cloudinary.com/drft9abh4/image/upload/v1733568610/Tech-Stacks-2_u212v8.png" />
 
+  <br>
+  <br>
+   
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11148562287&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
 
-  <br>
-  <br>
-  
 
   <!-- <h6 style="opacity:0.6">
       <code>.html</code>
