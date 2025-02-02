@@ -4,8 +4,6 @@
 
   <img src="https://res.cloudinary.com/drft9abh4/image/upload/v1733562997/Luca-Giro-Banner_yyrlxx.png" alt="header"/>
 
-  <img align="center" width="300px" src="https://res.cloudinary.com/drft9abh4/image/upload/v1733568610/Tech-Stacks-2_u212v8.png" />
-
   <!-- <h6 style="opacity:0.6">
       <code>.html</code>
       <code>.css</code>
